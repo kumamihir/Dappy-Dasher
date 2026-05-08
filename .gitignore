@@ -1,3 +1,6 @@
 .vscode/
 *.dll
 *.exe
+*.o
+*.out
+main.code-workspace
